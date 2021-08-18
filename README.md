@@ -1,6 +1,6 @@
 - 👋 Hi, I’m iwami@mediaplan
-- 👀 I’m interested in .Ai
-- 🌱 I’m currently learning Ai
+- 👀 I’m interested in 
+- 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on Ai product
 - 📫 How to reach me 
 
